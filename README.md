@@ -126,4 +126,4 @@ Metaplex's off-chain component allows creators to launch a custom storefront, si
 
 All identification on the Storefront is based on wallet addresses. Creators and store admins sign through their wallets, and users place bids from connected wallets. Custom storefronts allow creators to create unique experiences per auction. Additionally, the Metaplex Foundation is working on multiple partnerships that will enable building immersive storefronts using VR/AR.
 
-Nft-verse is here
+Nft-verse is here. 
